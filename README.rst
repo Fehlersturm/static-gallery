@@ -35,4 +35,4 @@ except for the upload page there will be no dynamic content.
 each folder will contain a file, containing its own name encrypted with a key only the server knows, the upload page will only accept such keys as input. gallery creation can only be done by a mighty wizzard.
 
 
-.. _sigal https://github.com/saimn/sigal
+.. _sigal: https://github.com/saimn/sigal
